@@ -1,4 +1,6 @@
 # AI Tutor Bootcamp 2025
+## **Group1_FinalProject Power Point URL**
+Canva: https://www.canva.com/design/DAGfoSN9y6A/PkwmDHPy4ZtgReuE_mD2tA/view?utm_content=DAGfoSN9y6A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfa6b0e004d
 
 ## **Build Your Own AI Tutor**
 This course is inspired by Hardford CS50 paper, [Teaching CS 50 with AI](https://cs.harvard.edu/malan/publications/V1fp0567-liu.pdf). 
